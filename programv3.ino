@@ -17,11 +17,9 @@ void setup() {
   pinMode(ReadUV, INPUT);
   pinMode(ReadAmb, INPUT);
   pinMode(13, OUTPUT);
-  Serial.begin(9600); //open serial port, set the baud rate to 9600 bps
+  Serial.begin(9600);
   Serial.println("Starting up...");
-  // Open serial communications and wait for port to open:
-
-
+  
 
   Serial.print("Initializing SD card...");
 
@@ -30,11 +28,6 @@ void setup() {
     while (1);
   }
   Serial.println("initialization done.");
-
-  // open the file. note that only one file can be open at a time,
-  // so you have to close this one before opening another.
-
- 
 }
 
 
