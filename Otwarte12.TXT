@@ -1,0 +1,620 @@
+0
+0
+0
+
+UVAnalogOutput: 
+212
+ OutputVoltage: 
+1.04
+ UV Intensity: 
+0.35
+ mW/cm^2
+
+AmbientAnalogOutput: 
+1001
+ OutputVoltage: 
+4.89
+ Ambient Density: 
+977.54
+ lux
+
+0
+0
+10
+
+UVAnalogOutput: 
+212
+ OutputVoltage: 
+1.04
+ UV Intensity: 
+0.35
+ mW/cm^2
+
+AmbientAnalogOutput: 
+1001
+ OutputVoltage: 
+4.89
+ Ambient Density: 
+977.54
+ lux
+
+0
+0
+20
+
+UVAnalogOutput: 
+212
+ OutputVoltage: 
+1.04
+ UV Intensity: 
+0.35
+ mW/cm^2
+
+AmbientAnalogOutput: 
+1001
+ OutputVoltage: 
+4.89
+ Ambient Density: 
+977.54
+ lux
+
+0
+0
+30
+
+UVAnalogOutput: 
+212
+ OutputVoltage: 
+1.04
+ UV Intensity: 
+0.35
+ mW/cm^2
+
+AmbientAnalogOutput: 
+1001
+ OutputVoltage: 
+4.89
+ Ambient Density: 
+977.54
+ lux
+
+0
+0
+40
+
+UVAnalogOutput: 
+212
+ OutputVoltage: 
+1.04
+ UV Intensity: 
+0.35
+ mW/cm^2
+
+AmbientAnalogOutput: 
+1000
+ OutputVoltage: 
+4.88
+ Ambient Density: 
+976.56
+ lux
+
+0
+0
+50
+
+UVAnalogOutput: 
+212
+ OutputVoltage: 
+1.04
+ UV Intensity: 
+0.35
+ mW/cm^2
+
+AmbientAnalogOutput: 
+1000
+ OutputVoltage: 
+4.88
+ Ambient Density: 
+976.56
+ lux
+
+0
+1
+0
+
+UVAnalogOutput: 
+211
+ OutputVoltage: 
+1.03
+ UV Intensity: 
+0.32
+ mW/cm^2
+
+AmbientAnalogOutput: 
+1000
+ OutputVoltage: 
+4.88
+ Ambient Density: 
+976.56
+ lux
+
+0
+1
+10
+
+UVAnalogOutput: 
+211
+ OutputVoltage: 
+1.03
+ UV Intensity: 
+0.32
+ mW/cm^2
+
+AmbientAnalogOutput: 
+1000
+ OutputVoltage: 
+4.88
+ Ambient Density: 
+976.56
+ lux
+
+0
+1
+20
+
+UVAnalogOutput: 
+211
+ OutputVoltage: 
+1.03
+ UV Intensity: 
+0.32
+ mW/cm^2
+
+AmbientAnalogOutput: 
+1000
+ OutputVoltage: 
+4.88
+ Ambient Density: 
+976.56
+ lux
+
+0
+1
+30
+
+UVAnalogOutput: 
+212
+ OutputVoltage: 
+1.04
+ UV Intensity: 
+0.35
+ mW/cm^2
+
+AmbientAnalogOutput: 
+1000
+ OutputVoltage: 
+4.88
+ Ambient Density: 
+976.56
+ lux
+
+0
+1
+40
+
+UVAnalogOutput: 
+212
+ OutputVoltage: 
+1.04
+ UV Intensity: 
+0.35
+ mW/cm^2
+
+AmbientAnalogOutput: 
+1000
+ OutputVoltage: 
+4.88
+ Ambient Density: 
+976.56
+ lux
+
+0
+1
+50
+
+UVAnalogOutput: 
+212
+ OutputVoltage: 
+1.04
+ UV Intensity: 
+0.35
+ mW/cm^2
+
+AmbientAnalogOutput: 
+1000
+ OutputVoltage: 
+4.88
+ Ambient Density: 
+976.56
+ lux
+
+0
+2
+0
+
+UVAnalogOutput: 
+211
+ OutputVoltage: 
+1.03
+ UV Intensity: 
+0.32
+ mW/cm^2
+
+AmbientAnalogOutput: 
+1000
+ OutputVoltage: 
+4.88
+ Ambient Density: 
+976.56
+ lux
+
+0
+2
+10
+
+UVAnalogOutput: 
+212
+ OutputVoltage: 
+1.04
+ UV Intensity: 
+0.35
+ mW/cm^2
+
+AmbientAnalogOutput: 
+1000
+ OutputVoltage: 
+4.88
+ Ambient Density: 
+976.56
+ lux
+
+0
+2
+20
+
+UVAnalogOutput: 
+211
+ OutputVoltage: 
+1.03
+ UV Intensity: 
+0.32
+ mW/cm^2
+
+AmbientAnalogOutput: 
+1000
+ OutputVoltage: 
+4.88
+ Ambient Density: 
+976.56
+ lux
+
+0
+2
+30
+
+UVAnalogOutput: 
+211
+ OutputVoltage: 
+1.03
+ UV Intensity: 
+0.32
+ mW/cm^2
+
+AmbientAnalogOutput: 
+1000
+ OutputVoltage: 
+4.88
+ Ambient Density: 
+976.56
+ lux
+
+0
+2
+40
+
+UVAnalogOutput: 
+212
+ OutputVoltage: 
+1.04
+ UV Intensity: 
+0.35
+ mW/cm^2
+
+AmbientAnalogOutput: 
+1000
+ OutputVoltage: 
+4.88
+ Ambient Density: 
+976.56
+ lux
+
+0
+2
+50
+
+UVAnalogOutput: 
+211
+ OutputVoltage: 
+1.03
+ UV Intensity: 
+0.32
+ mW/cm^2
+
+AmbientAnalogOutput: 
+1000
+ OutputVoltage: 
+4.88
+ Ambient Density: 
+976.56
+ lux
+
+0
+3
+1
+
+UVAnalogOutput: 
+212
+ OutputVoltage: 
+1.04
+ UV Intensity: 
+0.35
+ mW/cm^2
+
+AmbientAnalogOutput: 
+1000
+ OutputVoltage: 
+4.88
+ Ambient Density: 
+976.56
+ lux
+
+0
+3
+11
+
+UVAnalogOutput: 
+212
+ OutputVoltage: 
+1.04
+ UV Intensity: 
+0.35
+ mW/cm^2
+
+AmbientAnalogOutput: 
+1000
+ OutputVoltage: 
+4.88
+ Ambient Density: 
+976.56
+ lux
+
+0
+3
+21
+
+UVAnalogOutput: 
+211
+ OutputVoltage: 
+1.03
+ UV Intensity: 
+0.32
+ mW/cm^2
+
+AmbientAnalogOutput: 
+1000
+ OutputVoltage: 
+4.88
+ Ambient Density: 
+976.56
+ lux
+
+0
+3
+31
+
+UVAnalogOutput: 
+212
+ OutputVoltage: 
+1.04
+ UV Intensity: 
+0.35
+ mW/cm^2
+
+AmbientAnalogOutput: 
+1000
+ OutputVoltage: 
+4.88
+ Ambient Density: 
+976.56
+ lux
+
+0
+3
+41
+
+UVAnalogOutput: 
+212
+ OutputVoltage: 
+1.04
+ UV Intensity: 
+0.35
+ mW/cm^2
+
+AmbientAnalogOutput: 
+1000
+ OutputVoltage: 
+4.88
+ Ambient Density: 
+976.56
+ lux
+
+0
+3
+51
+
+UVAnalogOutput: 
+212
+ OutputVoltage: 
+1.04
+ UV Intensity: 
+0.35
+ mW/cm^2
+
+AmbientAnalogOutput: 
+1000
+ OutputVoltage: 
+4.88
+ Ambient Density: 
+976.56
+ lux
+
+0
+4
+1
+
+UVAnalogOutput: 
+212
+ OutputVoltage: 
+1.04
+ UV Intensity: 
+0.35
+ mW/cm^2
+
+AmbientAnalogOutput: 
+1001
+ OutputVoltage: 
+4.89
+ Ambient Density: 
+977.54
+ lux
+
+0
+4
+11
+
+UVAnalogOutput: 
+212
+ OutputVoltage: 
+1.04
+ UV Intensity: 
+0.35
+ mW/cm^2
+
+AmbientAnalogOutput: 
+1001
+ OutputVoltage: 
+4.89
+ Ambient Density: 
+977.54
+ lux
+
+0
+4
+21
+
+UVAnalogOutput: 
+212
+ OutputVoltage: 
+1.04
+ UV Intensity: 
+0.35
+ mW/cm^2
+
+AmbientAnalogOutput: 
+1001
+ OutputVoltage: 
+4.89
+ Ambient Density: 
+977.54
+ lux
+
+0
+4
+32
+
+UVAnalogOutput: 
+212
+ OutputVoltage: 
+1.04
+ UV Intensity: 
+0.35
+ mW/cm^2
+
+AmbientAnalogOutput: 
+1001
+ OutputVoltage: 
+4.89
+ Ambient Density: 
+977.54
+ lux
+
+0
+4
+42
+
+UVAnalogOutput: 
+212
+ OutputVoltage: 
+1.04
+ UV Intensity: 
+0.35
+ mW/cm^2
+
+AmbientAnalogOutput: 
+1001
+ OutputVoltage: 
+4.89
+ Ambient Density: 
+977.54
+ lux
+
+0
+4
+52
+
+UVAnalogOutput: 
+212
+ OutputVoltage: 
+1.04
+ UV Intensity: 
+0.35
+ mW/cm^2
+
+AmbientAnalogOutput: 
+1001
+ OutputVoltage: 
+4.89
+ Ambient Density: 
+977.54
+ lux
+
+0
+5
+2
+
+UVAnalogOutput: 
+212
+ OutputVoltage: 
+1.04
+ UV Intensity: 
+0.35
+ mW/cm^2
+
+AmbientAnalogOutput: 
+1001
+ OutputVoltage: 
+4.89
+ Ambient Density: 
+977.54
+ lux
+
